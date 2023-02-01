@@ -1,3 +1,4 @@
+import Calcolatrice.Calcolatrice;
 import Persona.*;
 import RaddoppiaValore.RaddoppiaValore;
 import RaddoppiaValore.Valore;
@@ -69,7 +70,12 @@ public class main {
         
         
         
+        Calcolatrice cal = new Calcolatrice();
         
+//        System.out.println("\nSomma "+cal.somma(1,2.9,8.78));
+//        System.out.println("Prodotto "+cal.prodotto(2,2));
+        System.out.println("Sottrazione "+cal.sottrazione(10,2.9,8.78));
+        System.out.println("Divisione "+cal.divisione(1,2));
         
         
 	
