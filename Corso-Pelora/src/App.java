@@ -80,7 +80,7 @@ public class App {
                 
                 Fattura fatt = new Fattura(1230);
                 Fattura fatt1 = new Fattura(3400);
-                Fattura fatt2 = new Fattura(247);
+        
 
                 ConvertiValute con = new ConvertiValute();
 
