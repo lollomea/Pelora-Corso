@@ -1,5 +1,4 @@
 package Calcolatrice;
-
 public class Calcolatrice {
 	
 	private double risultato;
